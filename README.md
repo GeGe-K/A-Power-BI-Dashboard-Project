@@ -63,8 +63,8 @@ Jupyter Notebook/VS Code: For code development and documentation.
 
 Download the first half of the data from OneDrive.
 Access the second half of the data using the provided database credentials.
-
-### Environment Setup:
+Using a cursor, we execute sql queries to interact with the database and view our second half of the data
+cursor = connection.cursor()
 
 
 
