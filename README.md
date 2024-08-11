@@ -1,5 +1,3 @@
-# A Power-BI Dashboard Project
-
 # Business Intelligence Solution Project
 
 ## Project Overview
@@ -67,6 +65,8 @@ Download the first half of the data from OneDrive.
 Access the second half of the data using the provided database credentials.
 Using a cursor, we execute sql queries to interact with the database and view our second half of the data
 cursor = connection.cursor()
+
+
 
 
 
