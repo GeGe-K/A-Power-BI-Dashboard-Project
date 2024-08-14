@@ -127,20 +127,22 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Special thanks to the contributors and mentors who provided guidance and support throughout this project.
 - Thanks to the developers and communities behind the tools and libraries used in this project.
 
-## Authors
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [Your GitHub Profile]
+
 
 ## Authors
  
 **1. Gloria Givondo**  
-[![GitHub](https://github.com/GeGe-K)
+[![GitHub](https://img.shields.io/badge/GitHub-Gege--k-blue?logo=github)](https://github.com/Gege-k)
+
 **2. Elias Ongoma**
-[![GitHub](https://github.com/OngomaElias)
+[![GitHub](https://img.shields.io/badge/GitHub-OngomaElias-blue?logo=github)](https://github.com/OngomaElias)
+
 **3. Vanis Kemunto**
-[![GitHub](https://github.com/Vaniskemunto)
+[![GitHub](https://img.shields.io/badge/GitHub-VanisKemunto-blue?logo=github)](https://github.com/VanisKemunto)
+
 **4. Ezekiel Third Phannsi**
-[![GitHub](https://github.com/Phannsi)
+[![GitHub](https://img.shields.io/badge/GitHub-Phannsi-blue?logo=github)](https://github.com/Phannsi)
+
 **5. Georgina Njeri**
-[![GitHub](https://github.com/Georginahnjeri)
+[![GitHub](https://img.shields.io/badge/GitHub-Georginahnjeri-blue?logo=github)](https://github.com/Georginahnjeri)
+
