@@ -75,7 +75,8 @@ To set up the environment and install necessary software and dependencies for th
 3. **Install Python Packages**:
    - Use pip to install the required Python libraries:
      ```bash
-    
+     pip install -r requirements.txt
+     ```
 
 4. **Power BI Installation**:
    - Download and install Power BI Desktop from [Microsoft Power BI](https://powerbi.microsoft.com/desktop/).
@@ -91,11 +92,9 @@ To set up the environment and install necessary software and dependencies for th
 ### Running the Analysis Scripts
 1. Ensure all required libraries are installed as per the Installation Instructions.
 2. Download and extract the dataset files from OneDrive and the remote database.
-3. Run the provided Python scripts provided in the jupiter notebook i.e the .ipynb file to perform data cleaning, analysis, saving the cleaned data for powerBI manipulation:
-   
+3. Run the provided Python scripts in the Jupyter Notebook (i.e., the `.ipynb` file) to perform data cleaning and analysis, and save the cleaned data for Power BI manipulation.
 
-   ## Data Schema
-
+## Data Schema
 **Orders Table**: Contains order details.
 - **Order_ID**: Unique identifier for each order.
 - **Product**: Name of the product.
@@ -108,14 +107,12 @@ To set up the environment and install necessary software and dependencies for th
 - **State**: State where the product was delivered.
 
 ## Code of Conduct
-
 - Be respectful and constructive in your feedback.
 - Follow the project's coding standards and guidelines.
 - Ensure that all contributions are well-documented and tested.
 - Collaborate openly and share knowledge with the team.
 
 ## Contributing
-
 To contribute to this project:
 1. **Fork** the repository on GitHub.
 2. **Create** a new branch for your changes.
@@ -124,11 +121,26 @@ To contribute to this project:
 5. **Review** and address any feedback provided during the pull request review.
 
 ## License
-
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-
 - Special thanks to the contributors and mentors who provided guidance and support throughout this project.
 - Thanks to the developers and communities behind the tools and libraries used in this project.
 
+## Authors
+- **Name**: [Your Name]
+- **Email**: [Your Email]
+- **GitHub**: [Your GitHub Profile]
+
+## Authors
+ 
+**1. Gloria Givondo**  
+[![GitHub](https://github.com/GeGe-K)
+**2. Elias Ongoma**
+[![GitHub](https://github.com/OngomaElias)
+**3. Vanis Kemunto**
+[![GitHub](https://github.com/Vaniskemunto)
+**4. Ezekiel Third Phannsi**
+[![GitHub](https://github.com/Phannsi)
+**5. Georgina Njeri**
+[![GitHub](https://github.com/Georginahnjeri)
