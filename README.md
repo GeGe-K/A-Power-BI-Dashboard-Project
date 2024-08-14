@@ -132,7 +132,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Authors
  
 **1. Gloria Givondo**  
-[![GitHub](https://img.shields.io/badge/GitHub-Gege--k-blue?logo=github)](https://github.com/Gege-k)
+[![GitHub](https://img.shields.io/badge/GitHub-GeGe--k-blue?logo=github)](https://github.com/GeGe-k)
 
 **2. Elias Ongoma**
 [![GitHub](https://img.shields.io/badge/GitHub-OngomaElias-blue?logo=github)](https://github.com/OngomaElias)
