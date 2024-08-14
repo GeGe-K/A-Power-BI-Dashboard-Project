@@ -69,5 +69,3 @@ cursor = connection.cursor()
 
 
 
-
-
